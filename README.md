@@ -1,16 +1,47 @@
-## Hi there 👋
+# ⚡ ERROR 404: SLEEP NOT FOUND
 
-<!--
-**arshkalra17/arshkalra17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=code&color=00ff00&height=200&section=header&text=DECODER%20BY%20DAY&fontSize=70&animation=fadeIn">
+</p>
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack Under a Microscope
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,python,flask,pytorch,tensorflow,aws,docker,linux,git,mongodb,postman" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 The Proof is in the Pixels
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arshkalra17&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshkalra17&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌌 My GitHub Galaxy
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshkalra17&theme=tokyonight" />
+</p>
+
+### 👾 Current Side Quests
+- 🧠 **Deep Learning**: Teaching machines to contemplate their existence.
+- 🏗️ **StructScan**: Building AI to stop infrastructure from falling down.
+- 🎮 **Game Engine**: Writing a custom renderer from scratch (for fun).
+
+---
+
+## 📈 Activity Heatmap (The Grind)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arshkalra17&theme=tokyonight&hide_border=true)
+
+---
+
+## ⚡ Random Stats & Vanity
+- 💬 Ask me about: **Full-Stack AI, Computer Vision, or why Vim is a lifestyle.**
+- 📫 Reach me at: `yourname@email.com`
+- ⚡ Fun fact: **My code works 100% of the time, 50% of the time.**
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=arshkalra17&color=green&style=flat-square&label=PROFILE+VIEWS" />
+</p>
