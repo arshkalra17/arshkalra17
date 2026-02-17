@@ -1,7 +1,7 @@
 # ⚡ ERROR 404: SLEEP NOT FOUND
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=code&color=00ff00&height=200&section=header&text=DECODER%20BY%20DAY&fontSize=70&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/render?type=code&color=00ff00&height=200&section=header&text=ARSH%20KALRA&fontSize=70&animation=fadeIn">
 </p>
 
 ## 🛠️ My Tech Stack Under a Microscope
@@ -33,13 +33,15 @@
 ---
 
 ## 📈 Activity Heatmap (The Grind)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arshkalra17&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshkalra17&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## ⚡ Random Stats & Vanity
 - 💬 Ask me about: **Full-Stack AI, Computer Vision, or why Vim is a lifestyle.**
-- 📫 Reach me at: `yourname@email.com`
+- 📫 Reach me at: **arshkalra17@gmail.com**
 - ⚡ Fun fact: **My code works 100% of the time, 50% of the time.**
 
 <p align="right">
