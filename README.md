@@ -7,15 +7,6 @@
 
 ---
 
-## 📊 The Proof is in the Pixels
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arshkalra17&show_icons=true&theme=tokyonight&v=1&count_private=true&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshkalra17&layout=compact&theme=tokyonight&v=1&hide_border=true" />
-</p>
-
----
-
 ## 🌌 My GitHub Galaxy
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arshkalra17&theme=tokyonight" />
@@ -25,13 +16,6 @@
 - 🧠 **Deep Learning**: Teaching machines to contemplate their existence.
 - 🏗️ **StructScan**: Building AI to stop infrastructure from falling down.
 - 🎮 **Game Engine**: Writing a custom renderer from scratch (for fun).
-
----
-
-## 📈 Activity Heatmap (The Grind)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshkalra17&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
