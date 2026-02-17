@@ -1,8 +1,4 @@
-# ⚡ ERROR 404: SLEEP NOT FOUND
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=code&color=00ff00&height=200&section=header&text=ARSH%20KALRA&fontSize=70&animation=fadeIn">
-</p>
+# ⚡ Hi I am Arsh
 
 ## 🛠️ My Tech Stack Under a Microscope
 <p align="center">
@@ -14,8 +10,8 @@
 ## 📊 The Proof is in the Pixels
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arshkalra17&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshkalra17&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arshkalra17&show_icons=true&theme=tokyonight&v=1&count_private=true&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshkalra17&layout=compact&theme=tokyonight&v=1&hide_border=true" />
 </p>
 
 ---
