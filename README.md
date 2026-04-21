@@ -1,9 +1,10 @@
 #  Hi I am Arsh
 
-##  Contribution Snake
-
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake-dark.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 ##  My Tech Stack Under a Microscope
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,python,flask,pytorch,tensorflow,aws,docker,linux,git,mongodb,postman" />
