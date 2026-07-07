@@ -20,10 +20,16 @@
 
 ---
 
-## ⚡ Random Stats & Vanity
+## Random Stats & Vanity
 -  Ask me about: **Full-Stack AI, Computer Vision, or why Vim is a lifestyle.**
 -  Reach me at: **arshkalra17@gmail.com**
 -  Fun fact: **My code works 100% of the time, 50% of the time.**
+  
+---
+
+## View my Resume
+
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=arshkalra17&color=green&style=flat-square&label=PROFILE+VIEWS" />
