@@ -28,6 +28,7 @@
 ---
 
 ## View my Resume
+**[View My Resume](./Arsh_Kalra_CV.pdf)**
 
 
 
