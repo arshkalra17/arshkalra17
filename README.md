@@ -16,30 +16,36 @@ Currently focused on **Backend Engineering, Applied AI, and AI/ML systems**.
 
 ## What I'm Building
 
-### SupportFlow
-AI-powered customer support backend built around:
+### [SupportFlow](https://github.com/arshkalra17/SupportFlow---AI-Ticket-Automation)
+AI customer-support backend where **the model only proposes and the backend decides**. Every tool call the LLM suggests passes four gates before anything changes: schema validation, ownership authorization, deterministic business rules, and execution under a row lock.
 
-- LangGraph orchestration
-- RAG with PostgreSQL + pgvector
-- LLM tool calling
-- JWT authentication & authorization
-- Human-in-the-loop approvals
-- Persistent conversation context
-- Redis-based asynchronous processing
-- Idempotency & concurrency handling
-- OpenTelemetry observability
-- Automated AI evaluation
+- **Orchestration:** LangGraph, with human-in-the-loop approval (`interrupt()` resumed from a Postgres checkpoint) for refunds over $1,000
+- **RAG:** PostgreSQL + pgvector, section chunking, cross-encoder reranking, cited answers
+- **LLMs:** Groq (gpt-oss-120b / 20b) as primary, Gemini as fallback, with a circuit breaker
+- **Safety:** JWT auth, idempotency keys, an action guard that blocks state changes made in answer to questions, Redis rate limiting and token budgets
+- **Async:** Redis job queue with retries and a dead-letter list
+- **Observability:** OpenTelemetry traces viewed in Jaeger
+- **Evaluation:** 167-case golden dataset with 0 forbidden-tool calls, plus 1,400+ automated tests
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arshkalra17/SupportFlow---AI-Ticket-Automation/main/docs/images/request-flow.png" width="480" alt="SupportFlow request flow" />
+</p>
 
 > **LLM proposes. Backend decides.**
 
-### 🏗️ StructScan
-Computer vision system for detecting structural damage using **YOLOv8, OpenCV, Flask, and PyTorch**.
+### [QueryLens](https://github.com/arshkalra17/QueryLens--AI-Data-Analyst)
+Natural-language data analyst: ask a question, get verified SQL and an answer.
 
-### 📊 QueryLens
-Natural-language data analytics system combining **RAG, embeddings, DuckDB, and deterministic SQL execution**.
+- **RAG + text-to-SQL:** embeddings retrieve schema context; the model writes SQL, the backend executes it
+- **Safe execution:** DuckDB sandbox with a query timeout and a self-repair loop for failed queries
+- **Evaluation:** 80-case execution-accuracy benchmark, with tuned and blind held-out results reported separately
 
-### 🎮 Game Engine
-Experimenting with graphics programming and building a renderer from scratch — mostly because building things from scratch is fun.
+---
+
+## Other Projects
+
+- 🏗️ **StructScan** — structural damage detection with YOLOv8, OpenCV, Flask and PyTorch
+- 🎮 **Game Engine** — a renderer built from scratch, mostly for fun
 
 ---
 
