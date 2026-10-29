@@ -2,8 +2,7 @@
 
 I build **backend systems and AI-powered applications** that go beyond model demos — with APIs, databases, asynchronous processing, orchestration, authentication, evaluation, and observability.
 
-Currently focused on **Backend Engineering, Applied AI, and AI/ML systems**.
-
+Currently building RAG and agentic AI systems with a focus on reliability, evaluation, and clean system design.
 ---
 
 ## What I Work With
